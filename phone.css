@@ -1,0 +1,38 @@
+/* Home */
+#gome {
+    height: 850px;
+}
+
+.headings {
+    font-size: 1.7rem;
+}
+
+/* About */
+#pic img {
+    width: 300px;
+    height: 175px;
+}
+
+#intro h2 {
+    font-size: 1.5rem;
+}
+
+/* Portfolio */
+.gallery img {
+    width: 280px;
+    height: 150px;
+    margin: 20px;
+}
+
+/* Contact */
+.input {
+    width: 80%;
+}
+
+#msg {
+    width: 70%;
+}
+
+#send {
+    width: 20%;
+}
