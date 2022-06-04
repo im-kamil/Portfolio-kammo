@@ -63,7 +63,7 @@ html {
     height: 2000px;
     width: 100%;
     z-index: -1;
-    opacity: .8;
+    opacity: 1;
 }
 
 .main {
